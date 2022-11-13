@@ -1,7 +1,7 @@
 Let's make a game!
-	name:Banana Farma
-	by:Banana
-	desc:Be the best farma around!
+	name:Banana Farm
+	by:Banaanae
+	desc:Be the best farmer around!
 	created:1/03/2021 (DD/MM/YYYY)
 	updated:13/11/2022
 	version:1.0.1
@@ -187,7 +187,7 @@ Buttons
     name:Pick Banana
     desc:Pick a banana
     no text
-    icon:https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg
+    icon:https://raw.githubusercontent.com/Banaanae/Banana-Farm/main/Assets/mainBananaBtn.png
     on click:yield 1 Banana
 
   *Money
