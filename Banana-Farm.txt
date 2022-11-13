@@ -3,7 +3,7 @@ Let's make a game!
 	by:Banana
 	desc:Be the best farma around!
 	created:1/03/2021 (DD/MM/YYYY)
-	updated:--/--/----
+	updated:13/11/2022
 	version:1.0.1
 
 Settings
@@ -231,7 +231,7 @@ Buildings
 
   *Gorilla
     name:Gorilla
-    desc:Awarded to the great souls who achieved getting 50 of every building. My friend, appropriately nicknamed Gorilla Man, wanted the Gorilla to be the best character as he quoted, "Oohhh ohh ARGH AAAAAAAAAAAAAAAAARGH" Which Roughly translates to "Bow to down to me, as I am the Banana Overlord" Apart from me the one typing this Lore.
+    desc:Awarded to the great souls who achieved getting 50 of every building.
     on tick:yield 500000 Banana
     cost:1000000 Banana
     req:(tree>=50 and BigBanana>=50 and Monkey>=50 and slow>=50)
